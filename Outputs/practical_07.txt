@@ -1,0 +1,7 @@
+Enter the first string: abababa
+Enter the second string: aba
+Result: [0, 2, 4]
+
+Enter the first string: abc
+Enter the second string: z
+Result: -1

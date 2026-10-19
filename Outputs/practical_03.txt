@@ -1,0 +1,17 @@
+Enter the number of rows: 5
+
+Pyramid:
+
+    *
+   ***
+  *****
+ *******
+*********
+
+Reverse pyramid:
+
+*********
+ *******
+  *****
+   ***
+    *

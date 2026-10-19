@@ -1,0 +1,4 @@
+Enter a number n: 10
+a) 10 is not a prime number
+b) Prime numbers till 10: [2, 3, 5, 7]
+c) First 10 prime numbers: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]

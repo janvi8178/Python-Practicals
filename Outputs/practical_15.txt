@@ -1,0 +1,11 @@
+Enter your name: Janv1
+Invalid name -> Name contains digits. Please try again.
+
+(validation finished)
+Enter your name: Janvi@
+Invalid name -> Name contains special characters. Please try again.
+
+(validation finished)
+Enter your name: Janvi
+Hello, Janvi! Your name is valid.
+(validation finished)

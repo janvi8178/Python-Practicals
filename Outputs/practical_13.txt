@@ -1,0 +1,10 @@
+p1 = Point2D(1, 2)
+p2 = Point2D(4, 6)
+Distance between p1 and p2 = 5.0
+Midpoint of p1 and p2 = Point2D(2.5, 4.0)
+After moving p1 by (2, 3): p1 = Point2D(3, 5)
+
+Enter x and y of the first point: 0 0
+Enter x and y of the second point: 3 4
+Point2D(0.0, 0.0) and Point2D(3.0, 4.0)
+Distance = 5.0

@@ -1,0 +1,11 @@
+p1 = Point3D(1, 2, 3)
+p2 = Point3D(4, 6, 15)
+Distance between p1 and p2 = 13.0
+After moving p1 by (1, 1, 1): p1 = Point3D(2, 3, 4)
+2D distance: 5.0
+Point3D is a Point2D: True
+
+Enter x, y and z of the first point: 0 0 0
+Enter x, y and z of the second point: 1 2 2
+Point3D(0.0, 0.0, 0.0) and Point3D(1.0, 2.0, 2.0)
+Distance = 3.0

@@ -1,0 +1,14 @@
+Enter a single character: 9
+'9' is a numeric digit
+Name in text: NINE
+
+Enter a single character: a
+'a' is a letter
+It is a lowercase letter
+
+Enter a single character: G
+'G' is a letter
+It is an uppercase letter
+
+Enter a single character: @
+'@' is a special character

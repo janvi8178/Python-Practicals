@@ -1,0 +1,5 @@
+Enter the first string: hello
+Enter the second string: world
+Enter n (number of characters to swap): 2
+Before swapping: hello | world
+After swapping : wollo | herld

@@ -1,0 +1,38 @@
+Enter the file name (press Enter to use sample.txt): 
+
+a) Total characters: 173
+   Total words     : 33
+   Total lines     : 5
+
+b) Frequency of each character:
+   '\n'   -> 5
+   ' '    -> 28
+   '.'    -> 5
+   'A'    -> 1
+   'F'    -> 1
+   'I'    -> 1
+   'P'    -> 1
+   'T'    -> 1
+   'a'    -> 13
+   'c'    -> 1
+   'd'    -> 4
+   'e'    -> 11
+   'f'    -> 3
+   'g'    -> 5
+   'h'    -> 8
+   'i'    -> 15
+   'l'    -> 9
+   'm'    -> 3
+   'n'    -> 12
+   'o'    -> 8
+   'p'    -> 5
+   'r'    -> 7
+   's'    -> 9
+   't'    -> 12
+   'u'    -> 3
+   'y'    -> 2
+
+c) Words in reverse order:
+   line. last the is this And file. the of line fourth the is This topic. important an is handling File read. and learn to easy is It language. programming popular a is Python
+
+d) Even lines copied to 'File1' and odd lines copied to 'File2'.

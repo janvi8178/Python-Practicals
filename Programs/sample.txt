@@ -1,0 +1,5 @@
+Python is a popular programming language.
+It is easy to learn and read.
+File handling is an important topic.
+This is the fourth line of the file.
+And this is the last line.

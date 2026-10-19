@@ -1,0 +1,10 @@
+Enter a string: banana
+a) Enter a character to find its frequency: a
+   'a' occurs 3 time(s)
+b) Enter the character to be replaced: a
+   Enter the new character: z
+   Result: bznznz
+c) Enter a character to remove its first occurrence: n
+   Result: baana
+d) Enter a character to remove all its occurrences: b
+   Result: anana
